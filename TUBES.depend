@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1475647388 source:c:\users\dee\documents\cpp\multi_i\list_child.cpp
+	"list_child.h"
+
+1475646953 c:\users\dee\documents\cpp\multi_i\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1475646953 c:\users\dee\documents\cpp\multi_i\list_parent.h
+	<iostream>
+
+1475646953 source:c:\users\dee\documents\cpp\multi_i\list_parent.cpp
+	"list_parent.h"
+
+1475647510 source:c:\users\dee\documents\cpp\multi_i\main.cpp
+	<iostream>
+	"list_child.h"
+
+1475609332 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\asd task\github\asd_multilist-master\multi_i\list_child.cpp
+	"list_child.h"
+
+1475609332 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\asd task\github\asd_multilist-master\multi_i\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1475609332 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\asd task\github\asd_multilist-master\multi_i\list_parent.h
+	<iostream>
+
+1475609332 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\asd task\github\asd_multilist-master\multi_i\list_parent.cpp
+	"list_parent.h"
+
+1475609332 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\asd task\github\asd_multilist-master\multi_i\main.cpp
+	<iostream>
+	"list_child.h"
+
+1475609332 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\asd_multilist-master\multi_i\list_child.cpp
+	"list_child.h"
+
+1475609332 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\asd_multilist-master\multi_i\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1475609332 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\asd_multilist-master\multi_i\list_parent.h
+	<iostream>
+
+1475609332 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\asd_multilist-master\multi_i\list_parent.cpp
+	"list_parent.h"
+
+1475609332 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\asd_multilist-master\multi_i\main.cpp
+	<iostream>
+	"list_child.h"
+
+1480691142 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\tubes\list_child.cpp
+	"list_child.h"
+
+1480690963 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1480754239 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\tubes\list_parent.h
+	<iostream>
+
+1480690351 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\tubes\list_parent.cpp
+	"list_parent.h"
+
+1480691142 source:c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\tubes\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_child.h"
+
+1479948135 c:\users\gians\google drive\tel-u\semester 3\asd (struktur data)\tubes\tubes\list_child.cpp
+	"list_child.h"
+
+1480221561 source:c:\users\mons\desktop\ridhwan\asd\tubes\tubes\list_child.cpp
+	"list_child.h"
+
+1480220459 c:\users\mons\desktop\ridhwan\asd\tubes\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1480046279 c:\users\mons\desktop\ridhwan\asd\tubes\tubes\list_parent.h
+	<iostream>
+
+1480220301 source:c:\users\mons\desktop\ridhwan\asd\tubes\tubes\main.cpp
+	<iostream>
+	"list_child.h"
+
+1480219230 source:c:\users\mons\desktop\ridhwan\asd\tubes\tubes\list_parent.cpp
+	"list_parent.h"
+
+1480430802 source:e:\@anime batch\tubes-20161202t061522z\tubes\list_child.cpp
+	"list_child.h"
+
+1480429804 e:\@anime batch\tubes-20161202t061522z\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+
+1480429672 e:\@anime batch\tubes-20161202t061522z\tubes\list_parent.h
+	<iostream>
+
+1480429666 source:e:\@anime batch\tubes-20161202t061522z\tubes\list_parent.cpp
+	"list_parent.h"
+
+1480430932 source:e:\@anime batch\tubes-20161202t061522z\tubes\main.cpp
+	<iostream>
+	<cstdlib>
+	"list_child.h"
+
