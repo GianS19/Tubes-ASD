@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Menu&amp;Initial.cpp" />
+		<Unit filename="Menu&amp;Initial.h" />
 		<Unit filename="list_child.cpp" />
 		<Unit filename="list_child.h" />
 		<Unit filename="list_parent.cpp" />
